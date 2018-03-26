@@ -3,4 +3,4 @@
 
 效果如图：
 
-![1](C:\Users\12297\Desktop\1.gif)
+![1](C:\Users\12297\Documents\GitHub\questionnaire\1.gif)
