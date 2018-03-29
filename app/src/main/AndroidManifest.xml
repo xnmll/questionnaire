@@ -16,6 +16,36 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Main2Activity"
+            android:exported="true"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main3Activity"
+            android:exported="true"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".demo_2_1"
+            android:exported="true"
+            android:label="@string/title_activity_demo_2_1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".demo_2_2"
+            android:exported="true"
+            android:label="@string/title_activity_demo_2_2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".demo_3_1"
+            android:exported="true"
+            android:label="@string/title_activity_demo_3_1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".demo_3_2"
+            android:exported="true"
+            android:label="@string/title_activity_demo_3_2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
